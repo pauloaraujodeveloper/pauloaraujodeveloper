@@ -1,9 +1,20 @@
-<div align="center">
+<div align="center"> <!-- CABEÇALHO ANIMADO --> <img width="100%" alt="Cabeçalho" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Paulo%20Araújo&fontSize=58&fontColor=00f5ff&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Building%20the%20future&descSize=18&descColor=a78bfa&descAlignY=58" /> <!-- TEXTO DIGITANDO --> <a href="https://github.com/pauloaraujodeveloper"> <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=Construindo+o+futuro+linha+a+linha;Desenvolvedor+de+software+%7C+Web+%26+Automa%C3%A7%C3%A3o;Transformando+ideias+em+produtos+reais;Sempre+aprendendo%2C+sempre+evoluindo" /> </a> <br/> <!-- BADGES --> <a href="https://github.com/pauloaraujodeveloper?tab=followers"> <img alt="Seguidores" src="https://img.shields.io/github/followers/pauloaraujodeveloper?style=for-the-badge&logo=github&logoColor=00f5ff&color=7c3aed&labelColor=0d1117" /> </a> <img alt="Visitas" src="https://komarev.com/ghpvc/?username=pauloaraujodeveloper&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=VISITAS" /> <img alt="Status" src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117" /> </div> <br/> <img width="100%" height="3" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" /> <br/>
+⚡ Sobre mim
+text
+> whoami
+  Paulo Araújo — Developer
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-dash.vercel.app/api/painel/pauloaraujodeveloper">
-<img src="https://github-profile-dash.vercel.app/api/painel/pauloaraujodeveloper?tema=claro" width="860" alt="Dashboard GitHub de pauloaraujodeveloper" />
-</picture>
+> status
+  🟢 Disponível para novos projetos e colaborações
 
-</div>
-<!-- github-profile-dash:fim -->
+> focus
+  Web · Automação · Produtos digitais
+<br/>
+🧠 Stack & Ferramentas
+<div align="center"> <img alt="Stack" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,postgres,git,github,vercel&theme=dark&perline=11" /> </div> <br/>
+📊 Dashboard GitHub
+<div align="center"> <a href="https://github.com/pauloaraujodeveloper"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-dash.vercel.app/api/painel/pauloaraujodeveloper"> <img src="https://github-profile-dash.vercel.app/api/painel/pauloaraujodeveloper?tema=claro" width="860" alt="Dashboard GitHub de pauloaraujodeveloper" /> </picture> </a> </div> <!-- github-profile-dash:fim --> <br/>
+🔥 Atividade
+<div align="center"> <img width="100%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloaraujodeveloper&bg_color=0d1117&color=00f5ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" /> </div> <br/>
+📫 Vamos conversar?
+<div align="center"> <a href="https://github.com/pauloaraujodeveloper"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-pauloaraujodeveloper-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /> </a> <!-- Adicione aqui LinkedIn, e-mail, portfólio etc. --> </div> <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
