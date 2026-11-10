@@ -2,11 +2,6 @@
 
 <img src="./hero.svg" width="100%" alt="Paulo Araújo — Developer" />
 
-<br/>
-
-<img src="./badges.svg" width="100%" alt="Status: online · Web, Automação e SaaS · Fortaleza/CE" />
-
-<br/><br/>
 
 <img src="./stack.svg" width="100%" alt="Stack e ferramentas" />
 
