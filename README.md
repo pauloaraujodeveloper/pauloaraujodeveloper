@@ -6,14 +6,7 @@
 <img src="./stack.svg" width="100%" alt="Stack e ferramentas" />
 
 <br/><br/>
-
-<img src="./deploys.svg" width="100%" alt="Painel de deploys no Render, atualizado automaticamente" />
-<br/>
-
 <br/><br/>
-
-<img src="./activity.svg" width="100%" alt="Atividade nos últimos 31 dias" />
-
 <br/><br/>
 
 <a href="https://github.com/pauloaraujodeveloper"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pauloaraujodeveloper-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
