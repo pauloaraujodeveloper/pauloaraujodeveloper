@@ -1,4 +1,4 @@
-name: Sync deploy dashboard
+name: Sync profile visuals
 
 on:
   schedule:
@@ -18,17 +18,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Gerar dashboard.svg
-        run: node scripts/sync-deploys.mjs
+      - name: Gerar badges.svg, stack.svg e deploys.svg
+        run: node scripts/generate-visuals.mjs
         env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_TEAM_SLUG: paulo-araujo
           RENDER_API_KEY: ${{ secrets.RENDER_API_KEY }}
 
       - name: Commit se houver mudanças
         run: |
           git config user.name "deploy-bot"
           git config user.email "deploy-bot@users.noreply.github.com"
-          git add dashboard.svg
-          git diff --cached --quiet || git commit -m "chore: sync deploy dashboard"
+          git add badges.svg stack.svg deploys.svg
+          git diff --cached --quiet || git commit -m "chore: sync profile visuals"
           git push
