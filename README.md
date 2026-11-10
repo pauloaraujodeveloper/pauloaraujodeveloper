@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./hero.svg" width="100%" alt="Paulo Araújo — Developer" />
-
+<br/><br/>
 
 <img src="./stack.svg" width="100%" alt="Stack e ferramentas" />
 
@@ -9,7 +9,6 @@
 
 <img src="./deploys.svg" width="100%" alt="Painel de deploys no Render, atualizado automaticamente" />
 <br/>
-<sub>Painel atualizado automaticamente a cada 30 minutos via GitHub Actions.</sub>
 
 <br/><br/>
 
